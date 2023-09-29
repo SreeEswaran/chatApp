@@ -1,0 +1,24 @@
+{
+  "name": "chatapplication",
+  "version": "2.0.0",
+  "description": "Account registration and login system developed in Node.js using Express.js and SQLite",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "body-parser": "^1.20.2",
+    "consolidate": "^1.0.1",
+    "cookie-parser": "^1.4.6",
+    "express": "^4.18.2",
+    "mustache": "^4.2.0",
+    "socket.io": "^4.7.1",
+    "sqlite": "^5.0.1",
+    "sqlite3": "^5.1.6",
+    "uuid": "^9.0.0"
+  }
+}
