@@ -1,7 +1,7 @@
 # Chat App
 
 <strong>THIS WORK IS YET IN PROGRESS, FEATURES MAY BE MISSING.</strong>
-
+##By-SreeDeekshithaYerra(5J8)
 ## What is this project?
 
 A chatroom website written in Node.js using Socket.IO for communication between clients. Express.js and the Node.js implementation of SQLite are used for a login system allowing users to register, login, edit, and delete an account at any time. Passwords are hashed using bcrypt so they are stored securely in the database. 
