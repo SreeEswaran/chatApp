@@ -1,1 +1,10 @@
-
+"bcrypt"
+"body-parser"
+"consolidate"
+"cookie-parser"
+"express"
+"mustache"
+"socket.io"
+"sqlite"
+"sqlite3"
+"uuid"
